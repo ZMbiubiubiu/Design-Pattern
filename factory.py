@@ -1,8 +1,9 @@
 #! /home/bingo/anaconda3/bin/python
 # *- coding=utf-8 -*
 
+
+__date__ = "2019/05/02"
 __author__ = "ZzLee"
-__date__ = "2019/04/27"
 __mail__ = "zhangmeng.lee@foxmail.com"
 __version__ = "1.0"
 
